@@ -37,4 +37,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 Data loading issue been corrected.
-Commeted the changes.
